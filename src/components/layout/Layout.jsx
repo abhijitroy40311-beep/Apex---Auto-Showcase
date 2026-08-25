@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { Outlet, useLocation } from 'react-router-dom';
+import { Outlet, useLocation, Link } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
 
@@ -26,9 +26,9 @@ const Layout = () => {
         <a href="tel:+918777202487" className="flex-1 py-4 text-center text-xs font-semibold uppercase tracking-wider text-text-primary border-r border-border active:bg-surface-hover">
           Call
         </a>
-        <a href="/test-drive" className="flex-1 py-4 text-center text-xs font-semibold uppercase tracking-wider text-primary bg-accent active:bg-accent-hover">
+        <Link to="/test-drive" className="flex-1 py-4 text-center text-xs font-semibold uppercase tracking-wider text-primary bg-accent active:bg-accent-hover">
           Test Drive
-        </a>
+        </Link>
       </div>
       {/* Spacer for mobile bottom bar */}
       <div className="h-[calc(52px+env(safe-area-inset-bottom))] md:hidden w-full shrink-0"></div>
