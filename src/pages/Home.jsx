@@ -10,7 +10,7 @@ import FAQ from '../components/home/FAQ';
 
 const Home = () => {
   return (
-    <>
+    <div>
       <Hero />
       <TrustBar />
       <Intro />
@@ -19,7 +19,7 @@ const Home = () => {
       <Story />
       <Testimonials />
       <FAQ />
-    </>
+    </div>
   );
 };
 
