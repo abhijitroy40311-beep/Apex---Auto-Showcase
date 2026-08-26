@@ -6,4 +6,4 @@ coverage/
 *.log
 .env*
 !.env.example
-index.html
+index.htmlindex.html
