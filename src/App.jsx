@@ -8,6 +8,7 @@ const VehicleDetails = lazy(() => import('./pages/VehicleDetails'));
 const About = lazy(() => import('./pages/About'));
 const Contact = lazy(() => import('./pages/Contact'));
 const TestDrive = lazy(() => import('./pages/TestDrive'));
+const ThankYou = lazy(() => import('./pages/ThankYou'));
 const WhyApex = lazy(() => import('./pages/WhyApex'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="inventory" element={<Inventory />} />
           <Route path="vehicle/:id" element={<VehicleDetails />} />
           <Route path="test-drive" element={<TestDrive />} />
+          <Route path="thank-you" element={<ThankYou />} />
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
           <Route path="why-apex" element={<WhyApex />} />
