@@ -29,6 +29,7 @@ const Inventory = () => {
             Explore our hand-selected inventory of premium pre-owned vehicles. Each car has passed our rigorous 150-point inspection.
           </p>
         </div>
+
         <div className="flex flex-col lg:flex-row gap-8 items-start mb-12">
           {/* Filters/Search area */}
           <div className="w-full lg:w-1/4 shrink-0 flex flex-col gap-6">
@@ -52,6 +53,7 @@ const Inventory = () => {
 
             <div className="hidden lg:block border border-border bg-surface p-6">
               <h3 className="text-xs uppercase tracking-widest text-text-primary font-semibold mb-6 flex items-center gap-2">
+                <SlidersHorizontal size={14} /> Filters
               </h3>
 
               <div className="mb-6">
