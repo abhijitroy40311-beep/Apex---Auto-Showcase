@@ -44,8 +44,8 @@ const Navbar = () => {
       <div className="container mx-auto px-6 lg:px-12">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-serif tracking-widest text-text-primary uppercase flex flex-col leading-none">
-            <span>Apex</span>
-            <span className="font-sans text-[0.65rem] tracking-[0.3em] text-text-secondary mt-1">Auto Showcase</span>
+            <span>APEXORA</span>
+            <span className="font-sans text-[0.65rem] tracking-[0.3em] text-text-secondary mt-1">AUTOMOTIVE</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
