@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://apex-auto-showcase-three.vercel.app/</loc>
   </url>
+
+  <url>
+    <loc>https://apex-auto-showcase-three.vercel.app/inventory</loc>
+  </url>
+
+  <url>
+    <loc>https://apex-auto-showcase-three.vercel.app/about</loc>
+  </url>
+
+  <url>
+    <loc>https://apex-auto-showcase-three.vercel.app/contact</loc>
+  </url>
+
+  <url>
+    <loc>https://apex-auto-showcase-three.vercel.app/test-drive</loc>
+  </url>
+
+  <url>
+    <loc>https://apex-auto-showcase-three.vercel.app/why-apex</loc>
+  </url>
+
 </urlset>
