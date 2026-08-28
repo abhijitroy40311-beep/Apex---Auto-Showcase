@@ -21,7 +21,7 @@ const Intro = () => {
               Buying a used luxury vehicle often brings uncertainty around vehicle condition, hidden repair costs, and service history. We eliminate the guesswork.
             </p>
             <p className="text-text-muted text-lg leading-relaxed font-light">
-              At Apex Auto Showcase, every vehicle is subjected to a rigorous 150-point inspection and prepared to an exceptional standard. We don't just sell cars; we curate a collection of the finest pre-owned luxury vehicles in Kolkata, ensuring your peace of mind comes standard.
+              At APEXORA AUTOMOTIVE, every vehicle is subjected to a rigorous 150-point inspection and prepared to an exceptional standard. We don't just sell cars; we curate a collection of the finest pre-owned luxury vehicles in Kolkata, ensuring your peace of mind comes standard.
             </p>
           </motion.div>
           

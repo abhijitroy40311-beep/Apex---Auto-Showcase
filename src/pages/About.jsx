@@ -22,7 +22,7 @@ const About = () => {
           </h1>
           <div className="w-16 h-px bg-accent mx-auto mb-8"></div>
           <p className="text-text-muted text-lg font-light leading-relaxed">
-            Apex Auto Showcase was founded on a simple principle: buying a pre-owned luxury vehicle should feel just as special, secure, and exciting as buying a new one. 
+             APEXORA AUTOMOTIVE was founded on a simple principle: buying a pre-owned luxury vehicle should feel just as special, secure, and exciting as buying a new one. 
           </p>
         </motion.div>
 

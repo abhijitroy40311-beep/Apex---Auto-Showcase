@@ -65,7 +65,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-text-muted uppercase tracking-wider">
-            &copy; {new Date().getFullYear()} Apex Auto Showcase. All Rights Reserved.
+            &copy; {new Date().getFullYear()} APEXORA AUTOMOTIVE. All Rights Reserved.
           </p>
           <div className="flex items-center gap-4 text-xs text-text-muted uppercase tracking-wider">
             <span>Premium Pre-Owned Luxury Cars</span>
